@@ -2,7 +2,7 @@
 
 A feature-rich, responsive to-do list web application built with React. This project demonstrates core front-end development skills, including state management, local storage persistence, and dynamic UI rendering.
 
-**Live Demo:** [**https://your-vercel-link.vercel.app**](https://my-todo-app-pied-nine.vercel.app/)
+**Live Demo:** [**https://my-todo-app-pied-nine.vercel.app/**](https://my-todo-app-pied-nine.vercel.app/)
 
 ---
 
